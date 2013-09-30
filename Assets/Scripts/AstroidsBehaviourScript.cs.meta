@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5c785f9849e295c408568bb02f459eb1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - miniAstroid: {fileID: 100018, guid: c1b42c4bbda3b3e49ad469edbeccb856, type: 2}
+  - enemyBullet: {fileID: 100000, guid: 6d351ad348e01d949990d26e6d6e1181, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
